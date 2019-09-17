@@ -14,10 +14,6 @@ import com.pinmi.react.printer.adapter.USBPrinterAdapter;
 
 import java.util.List;
 
-/**
- * Created by bondwp322 on 2017/10/9.
- */
-
 public class RNPrinterModule extends ReactContextBaseJavaModule {
 
 
