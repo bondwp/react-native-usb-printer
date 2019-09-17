@@ -1,6 +1,5 @@
 import React, { NativeModules } from 'react-native';
 
-
 import EPToolkit from 'escpos-printer-toolkit';
 
 var RNPrinter = NativeModules.RNPrinter;

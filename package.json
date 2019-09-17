@@ -1,6 +1,6 @@
 {
   "_from": "react-native-usb-printer",
-  "_id": "react-native-usb-printer@0.0.4",
+  "_id": "react-native-usb-printer@0.0.5",
   "_inBundle": false,
   "_integrity": "sha512-ddsDSxSjjXOZ0GMi+KY6qNbaYHhWHbg72IXsS6+27f1cMzvKjz34OyMH6QCFS32bCwfBut6yp/TR/6UOHz1YUA==",
   "_location": "/react-native-usb-printer",
@@ -49,5 +49,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.4"
+  "version": "0.0.5"
 }

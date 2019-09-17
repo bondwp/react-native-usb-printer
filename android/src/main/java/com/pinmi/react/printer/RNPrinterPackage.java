@@ -9,9 +9,6 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by bondwp322 on 2017/10/9.
- */
 
 public class RNPrinterPackage implements ReactPackage {
     @Override
